@@ -5,3 +5,13 @@
  .sub-logo{
     color:red;
  }
+ .nav-link:hover{
+   border-bottom: 1px solid red;
+ }
+table{
+   border: 1px solid black;
+}
+table, th, td{
+   border: 1px solid black;
+   padding: 5px;
+}
